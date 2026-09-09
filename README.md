@@ -4,7 +4,7 @@
 
 ## 精选仓库
 - **[resume-lhp](https://github.com/VaultSphere/resume-lhp)** — 个人简历网站源码（DeepSeek Harness 风格，纯静态，无构建步骤）
-  - 🌐 在线简历：<http://119.91.218.145/>
+  - 🌐 在线简历：<https://lhpproject.cloud/>
   - ✉️ 联系：`mlhp123@outlook.com`
 
 ## 关于作者
